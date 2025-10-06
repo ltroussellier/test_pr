@@ -1,0 +1,10 @@
+{
+    "nom": "exemple",
+    "type": "démonstration",
+    "actif": true,
+    "valeurs": [1, 2, 3],
+    "details": {
+        "créé_par": "GitHub Copilot",
+        "date": "2024-06-10"
+    }
+}
